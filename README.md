@@ -6,8 +6,9 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
-### Tareas 
+### Tareas
 
 [] Agregar mas heroes
-[] Agregar nuevas misiones 
+[] Agregar nuevas misiones
 [] Agregar nuevas cosas
+[] Nueva tarea
