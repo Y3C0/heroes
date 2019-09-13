@@ -8,6 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Tareas 
 
--[] Agregar mas heroes
--[] Agregar nuevas misiones 
--[] Agregar nuevas cosas
+[] Agregar mas heroes
+[] Agregar nuevas misiones 
+[] Agregar nuevas cosas
